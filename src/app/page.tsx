@@ -41,9 +41,9 @@ export default function HomePage() {
           <div className="flex items-center justify-start gap-4">
             <h1 className="text-xl font-bold">Drive Clone</h1>
             <nav>
-              <a className="underline" href="/">
-                My drive
-              </a>
+              <ul>
+                <li>My drive</li>
+              </ul>
             </nav>
           </div>
           <div className="flex items-center justify-start gap-4">
